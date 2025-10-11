@@ -2,27 +2,6 @@ MIT License
 
 Copyright (c) 2025 Panagiotis Beligiannis
 
-
-#### **2. index.html** (Χρησιμοποίησε τον κώδικα που έχουμε ήδη)
-
-#### **3. CONTRIBUTING.md**
-```markdown
-# Οδηγίες Συμμετοχής
-
-## 🚀 Γρήγορη Εκκίνηση
-
-1. **Κάντε Fork** του repository
-2. **Επεξεργαστείτε** το `index.html`
-3. **Προσθέστε** τα στοιχεία σας στον πίνακα
-4. **Δημιουργήστε Pull Request**
-
-## 📝 Μορφή Πίνακα
-```html
-<tr>
-    <td><a href="https://yourusername.github.io/your-cv-repo" target="_blank">Επώνυμο Όνομα</a></td>
-    <td class="student-id">std123456</td>
-</tr>
-
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
