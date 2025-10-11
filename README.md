@@ -1,4 +1,4 @@
-# 🎓 SDV 60 Class Registry
+# 🎓 SDV 60 Class Registry 🎓 
 
 [![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-brightgreen)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
